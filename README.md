@@ -1,6 +1,12 @@
 # Angular Base Folder Structure
 
-This project follows a modular and scalable folder structure, ideal for medium to large Angular applications. Below is an overview of the main directories and their purposes:
+This project is the **base structure with Tailwind CSS integrated**. It follows a modular and scalable folder structure, ideal for medium to large Angular applications.
+
+> **Note:** There are two additional branches available:
+> - **base**: The same structure without Tailwind CSS.
+> - **tailwind-flowbite**: The base structure with both Tailwind CSS and Flowbite integrated.
+
+Below is an overview of the main directories and their purposes:
 
 ## Root Level
 
