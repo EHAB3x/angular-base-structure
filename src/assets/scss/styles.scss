@@ -1,5 +1,5 @@
-@import "global";
-@import "shared";
-@import "plugins";
+@use "global";
+@use "shared";
+@use "plugins";
 
-@import "tailwindcss";
+@use "tailwindcss";
