@@ -106,9 +106,8 @@ assets/
 
 ```text
 environments/
-└── environment.ts             # Environment-specific config file
+└── environment.ts             # Environment-specific config file (ignore this file before pushing)
 ```
-
 ---
 
 ## How to Use This Structure
